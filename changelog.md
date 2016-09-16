@@ -5,3 +5,4 @@ Coding Style: Allman Notation
 
 Changelog:
 Added a Changelog for the project. - Eric
+Added a mouse picture and variables - Peyman
