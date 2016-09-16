@@ -5,3 +5,4 @@ Coding Style: Allman Notation
 
 Changelog:
 Added a Changelog for the project. - Eric
+Updated the tooltip to show quote in addition to name. -Eric
